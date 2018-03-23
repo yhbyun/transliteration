@@ -2,7 +2,7 @@
   "name": "transliteration",
   "version": "1.6.2",
   "description": "Unicode to ACSII transliteration / slugify module for node.js, browser, Web Worker, ReactNative and CLI.",
-  "main": "lib/node/index.js",
+  "main": "src/main/index.js",
   "scripts": {
     "lint": "eslint src/**/*.js test/**/*.js gulpfile.babel.js",
     "pretest": "npm run lint",
